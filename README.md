@@ -1,3 +1,5 @@
+!!! Новые коды апложу в папку updates  из за того что переменные очень неприятно конфликтуют!!!
+
 Учу пока java нашел хорожий гайд
 
 Линк: https://www.youtube.com/watch?v=ziOQ8wkmnSE&list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak
